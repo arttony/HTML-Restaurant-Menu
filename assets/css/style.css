@@ -86,13 +86,17 @@ th {
 }
 
 .highlight {
-    color: red;
+    color: darkred;
 }
 
 .holiday{
     width: 100%;
     background-color: red;
     padding: 25px;
+}
+
+.holiday p, h1{
+    color: white;
 }
 
 footer p {
